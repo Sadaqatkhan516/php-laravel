@@ -13,7 +13,7 @@
                     <div class="pr-5"><strong>23k</strong>followers</div>
                     <div class="pr-5"><strong>212</strong>following</div>
                 </div>
-
+                <h1>just a check</h1>
             </div>
     </div>
 </div>
